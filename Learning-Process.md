@@ -15,8 +15,10 @@ The most interesting ideas for me are:
 
 
 ### Q) What are active and di   ffuse modes of thinking?
-Active mode: In active mode, we turn our attention to something we are learning or working on.
-Diffused mode: It is a resting state in which we do relax, and by doing so, many people have found that it evolves new ideas into our minds.
+##### Active mode:
+- In active mode, we turn our attention to something we are learning or working on.
+##### Diffused mode: 
+- It is a resting state in which we do relax, and by doing so, many people have found that it evolves new ideas into our minds.
 
 
 ## Q) According to the video, what are the steps to take when approaching a new topic? Only mention the points.
